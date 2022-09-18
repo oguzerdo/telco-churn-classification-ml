@@ -36,7 +36,7 @@ It is expected to develop a machine learning model that can predict customers wh
 
 # Requirements
 
-```python
+```
 catboost==1.0.6
 lightgbm==3.1.1
 matplotlib==3.5.2
